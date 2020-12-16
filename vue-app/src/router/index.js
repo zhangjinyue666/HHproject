@@ -7,11 +7,11 @@ Vue.use(VueRouter)
 const routes = [
   {
     path:"/",
-    component:()=>import("../views/Home")
+    component:()=>import("../views/Three/Home")
   },
   {
     path:"/mine",
-    component:()=>import("../views/Mine")
+    component:()=>import("../views/Two/Mine")
   }
 ]
 
