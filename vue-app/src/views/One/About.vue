@@ -5,5 +5,6 @@
     <h1>OneOne哈哈哈</h1>
 =======
 >>>>>>> parent of 042a5ca (one文件)
+   <h2>jjjjjjjjjjjjjjjjjjj</h2>
   </div>
 </template>
