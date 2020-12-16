@@ -1,8 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
-
-    <h1>OneOne哈哈哈</h1>
-
+      <h1>This is an about page</h1>
+      <h1>OneOne哈哈哈</h1>
+      <h1>这是Three文件夹修改One文件夹</h1>
   </div>
 </template>
