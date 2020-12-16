@@ -1,10 +1,11 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-<<<<<<< HEAD
     <h1>OneOne哈哈哈</h1>
-=======
->>>>>>> parent of 042a5ca (one文件)
+
    <h2>jjjjjjjjjjjjjjjjjjj</h2>
+      <h1>This is an about page</h1>
+      <h1>OneOne哈哈哈</h1>
+      <h1>这是Three文件夹修改One文件夹</h1>
   </div>
 </template>
